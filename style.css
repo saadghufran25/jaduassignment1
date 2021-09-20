@@ -1,0 +1,176 @@
+body{
+background-color: #ECECEC;
+
+		background-size: cover;
+		background-repeat: no-repeat;)
+	
+	
+	
+}
+#logo {
+	width: 8cm;
+	padding-top: 2cm;
+	padding-left: 6cm;
+	margin-bottom: -1cm;
+}
+#pic1{
+	float: right;
+
+	width: 18cm;
+}
+#th3{
+	width: 200px;
+	
+	border-radius: 4px;
+	
+}
+#th2{
+		width: 200px;
+	
+	border-radius: 4px;
+	margin-left: 175px;
+}
+h4{ font: bold  ;
+	letter-spacing: 0.1cm;
+	margin-left: 160px;
+	font-size: 20px;
+	margin-bottom: -0.9cm;
+}
+#eunts{
+
+padding-bottom: 0.5cm;
+	padding-left: 6.5cm;
+
+	font-size: 20px;
+}
+#pic2{
+	
+
+	
+	width: 20cm;
+	float: left;
+
+}
+#channel {
+	font: bold  ;letter-spacing: 0.1cm;
+margin-right:2px ;
+padding-top: 200px;
+
+	font-size: 35px;
+}
+#enjoy {
+	font-size: 20px;
+	padding-right: 5px;
+}
+#th6{
+	float: right;
+	
+	width: 15cm;
+	padding-right: 5cm;
+
+}
+
+#mesages {
+ font: bold  ;letter-spacing: 0.1cm;
+	margin-left: 7.5cm;
+	padding-top: 350px;
+	font-size: 35px;
+}
+#cmnt{
+	font-size: 25px;
+	padding-left: 5cm ;
+}
+#fr {
+	float: left;
+	
+	width: 12cm;
+	padding-left: 5cm;
+}
+#future {font: bold  ;letter-spacing: 0.1cm;
+	padding-left: 20.75cm;
+	padding-top: 1cm;
+font-size: 35px;	
+}
+#cmnt1{
+	font-size: 25px;
+	padding-left: 18cm;
+}
+
+#v{ padding-top: 2cm;
+	width: 13cm;
+	
+
+}
+#download {
+	text-align: center;
+	font-size: 20px;
+	padding-left: 1.9cm;
+}
+#th31{
+	width: 200px;
+	
+	border-radius: 4px;
+	
+}
+#th21{
+		width: 200px;
+	
+	border-radius: 4px;
+	margin-left: 13cm;
+}
+
+.small {
+padding-left: 18cm;
+
+}
+#contactus{
+	color: deepskyblue;
+}
+#pr{
+	display: block;
+	margin:auto;
+	width: 2cm;
+	
+}
+#div{
+	padding-left: 6%;
+    
+}
+.imgl{
+	padding-left: 1.9cm;
+}
+
+::-webkit-scrollbar{
+	width: 20px;
+	
+
+}
+::-webkit-scrollbar-track{
+background-color: grey;
+
+}
+::-webkit-scrollbar-thumb{
+background-color: lightcyan;
+}
+::-webkit-scrollbar-thumb:hover{
+	background-color: cornflowerblue	;
+}
+@media only screen and (max-width: 700px)
+{body{ (min-width: 700px)}
+
+@media (min-width: 570px) { ... }
+
+@media (min-width: 770px) { ... }
+
+@media (min-width: 990px) { ... }
+
+@media (min-width: 1200px) { ... }
+
+@media (min-width: 1400px) { ... }
+	
+	
+	
+}
+
+
+}
